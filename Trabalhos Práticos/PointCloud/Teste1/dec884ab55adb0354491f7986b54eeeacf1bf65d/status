@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "Texturing_1",
+    "nodeType": "Texturing",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_texturing  --input \"C:/Users/abiag/Desktop/Meshroom/TrabalhoMeshroom/MeshroomCache/Meshing/101cd7eb98eca92e8c24675e0ad49733c85dcce8/densePointCloud.abc\" --imagesFolder \"C:/Users/abiag/Desktop/Meshroom/TrabalhoMeshroom/MeshroomCache/PrepareDenseScene/e756817bc81f187ffbc49b2264f9298bf30051fa\" --inputMesh \"C:/Users/abiag/Desktop/Meshroom/TrabalhoMeshroom/MeshroomCache/MeshFiltering/a315d2f7ce5a7aed648b6be956dcb6d1497d1ae4/mesh.obj\" --inputRefMesh \"\" --textureSide 8192 --downscale 2 --outputMeshFileType obj --colorMappingFileType exr --unwrapMethod Basic --useUDIM True --fillHoles False --padding 5 --multiBandDownscale 4 --multiBandNbContrib 1 5 10 0 --useScore True --bestScoreThreshold 0.1 --angleHardThreshold 90.0 --workingColorSpace sRGB --outputColorSpace AUTO --correctEV True --forceVisibleByAllVertices False --flipNormals False --visibilityRemappingMethod PullPush --subdivisionTargetRatio 0.8 --verboseLevel info --output \"C:/Users/abiag/Desktop/Meshroom/TrabalhoMeshroom/MeshroomCache/Texturing/dec884ab55adb0354491f7986b54eeeacf1bf65d\"",
+    "env": null,
+    "startDateTime": "2025-04-03 22:31:36.572742",
+    "endDateTime": "2025-04-03 22:32:01.171362",
+    "elapsedTime": 24.59861969947815,
+    "hostname": "BiaJR",
+    "sessionUid": "a7929290-10ce-11f0-a558-cd8a50fed80b",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:24.598620"
+}
