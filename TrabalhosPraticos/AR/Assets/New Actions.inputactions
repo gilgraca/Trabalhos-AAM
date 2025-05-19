@@ -1,0 +1,45 @@
+{
+    "name": "New Actions",
+    "maps": [
+        {
+            "name": "Jogador",
+            "id": "d0f22787-5600-4b2e-b55b-a660a2649d6f",
+            "actions": [
+                {
+                    "name": "Mover",
+                    "type": "Value",
+                    "id": "2e601829-482e-4299-bf15-dda66c8cfd6f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1744a7cd-3645-4b14-b963-095a6a35410e",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mover",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "50e40984-71d4-4849-b38d-d01e5922fa1c",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Mover",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
